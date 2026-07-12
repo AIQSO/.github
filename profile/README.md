@@ -1,27 +1,24 @@
 # AIQSO LLC
 
-**AI-powered IT solutions for small and mid-size businesses**
+**AI Systems Integrator for regulated and security-conscious businesses**
 
-We build infrastructure, automation, and custom software that helps businesses operate smarter. Based in Texas, AIQSO specializes in:
+We design, build, and run secure automation — infrastructure, integration, and AI workflows — with compliance built in, not bolted on. Founded by an enterprise security engineer with 20+ years at IBM, Citigroup, Check Point, Fortinet, Skybox Security, and Armis.
 
-- **Custom Software Development** — Full-stack web and mobile applications tailored to your business
-- **AI & Machine Learning** — Computer vision, document analysis, and intelligent automation
-- **IT Infrastructure** — Self-hosted platforms, network security, and cloud architecture
-- **Business Automation** — CRM integrations, workflow automation, and data pipelines
+- **Consult** — architecture, AI-readiness, and CMMC/NIST 800-171 readiness assessments
+- **Build** — secure automation, systems integration, and custom AI workflows
+- **Run** — managed operation of what we build, with monitoring and evidence trails
 
 ## Open Source
 
-We contribute tools and utilities back to the community:
+Tools and configurations from our production work:
 
 | Repository | Description |
 |---|---|
+| [zeek-ai-detection](https://github.com/AIQSO/zeek-ai-detection) | Passive AI-service detection with Zeek — which devices talk to which AI services, from mirrored traffic alone |
 | [qr-builder](https://github.com/AIQSO/qr-builder) | Generate and embed QR codes into images via Python, CLI, and FastAPI |
-| [aiqso-odoo-crm](https://github.com/AIQSO/aiqso-odoo-crm) | Utility scripts for importing and syncing lead data into Odoo 17 CRM |
-| [aiqso-seo-service](https://github.com/AIQSO/aiqso-seo-service) | Enterprise SEO auditing and rank tracking service |
-| [aiqso-demo-api](https://github.com/AIQSO/aiqso-demo-api) | Interactive demo portal API with SendGrid, OpenAI, and Google Calendar integrations |
 
 ## Get in Touch
 
 - **Website:** [aiqso.io](https://aiqso.io)
+- **Book a call:** [cal.aiqso.io](https://cal.aiqso.io)
 - **Email:** info@aiqso.io
-- **Twitter:** [@aiqso_io](https://twitter.com/aiqso_io)
