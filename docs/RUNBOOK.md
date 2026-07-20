@@ -3,10 +3,10 @@ runbook: true
 repo: aiqso-dotgithub
 status: active
 type: infra
-updated: 2026-07-16
+updated: 2026-07-20
 health: unknown
 deploy: not deployed
-next: review org profile and automation config after recent public repo table updates
+next: none — profile repo table verified against live org 2026-07-20; revisit when a public repo is added or archived
 ---
 
 # aiqso-dotgithub — Runbook
@@ -19,7 +19,7 @@ It also contains organization-level automation configuration for Renovate depend
 
 ## Stack
 
-- Markdown: `README.md`, `profile/README.md`, this runbook
+- Markdown: `README.md`, `profile/README.md`, `NAMING.md` (repo naming & organization conventions), this runbook
 - JSON: `renovate.json`
 - YAML: `.coderabbit.yaml`
 - GitHub organization profile repository conventions
@@ -58,11 +58,11 @@ Known automation settings:
 
 - Renovate runs before 9am on Monday in `America/Chicago`.
 - Renovate enables dependency dashboard, semantic commits, grouped non-major updates, vulnerability alerts, and selected automerge rules requiring `DevSecOps` checks.
-- CodeRabbit automatic review is enabled, including drafts, and chat auto-reply is enabled.
+- CodeRabbit automatic review is enabled (drafts excluded — `drafts: false`), and chat auto-reply is enabled.
 
 ## Current status
 
-Active. The latest commit is from 2026-07-12, which is within 30 days of the runbook update date. The most recent commits update the public repository table with `pihole-dns-forwarder`, realign the organization profile around AI Systems Integrator positioning, codify naming and organization conventions, and add org-wide Renovate and CodeRabbit configuration.
+Active. Content commits are from 2026-07-12 (later commits are runbook maintenance). The most recent content commits update the public repository table with `pihole-dns-forwarder`, realign the organization profile around AI Systems Integrator positioning, codify naming and organization conventions, and add org-wide Renovate and CodeRabbit configuration.
 
 ## Links
 
