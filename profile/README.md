@@ -8,15 +8,29 @@ We design, build, and run secure automation — infrastructure, integration, and
 - **Build** — secure automation, systems integration, and custom AI workflows
 - **Run** — managed operation of what we build, with monitoring and evidence trails
 
-## Open Source
+## Where we work
 
-Tools and configurations from our production work:
-
-| Repository | Description |
+| Practice | What it covers |
 |---|---|
-| [zeek-ai-detection](https://github.com/AIQSO/zeek-ai-detection) | Passive AI-service detection with Zeek — which devices talk to which AI services, from mirrored traffic alone |
-| [pihole-dns-forwarder](https://github.com/AIQSO/pihole-dns-forwarder) | Turn Pi-hole into a network DNS sensor — reliable query-log shipping to any bulk ingest (watermark resume, backpressure, systemd watchdog) |
-| [qr-builder](https://github.com/AIQSO/qr-builder) | Generate and embed QR codes into images via Python, CLI, and FastAPI |
+| Security engineering | Network visibility, asset intelligence, detection pipelines, SIEM integration |
+| Infrastructure | Virtualization, containers, backup and recovery, remote access, self-hosting |
+| Automation & AI | Workflow automation, private LLM deployment, retrieval systems, agent tooling |
+| Compliance | CMMC and NIST 800-171 readiness, evidence collection, audit support |
+
+## About our repositories
+
+AIQSO repositories are private by design. Our work is client-confidential or
+proprietary product IP, and we treat it that way — the same standard we apply
+to client systems.
+
+If you are evaluating us and need to see how we work, we share architecture
+documentation, reference designs, and code walkthroughs directly under NDA.
+[Book a call](https://cal.aiqso.io) and we will set it up.
+
+## Security
+
+To report a vulnerability in anything AIQSO operates or has delivered, see
+[SECURITY.md](https://github.com/AIQSO/.github/blob/main/SECURITY.md).
 
 ## Get in Touch
 
