@@ -6,7 +6,7 @@ type: infra
 updated: 2026-08-24
 health: unknown
 deploy: not deployed
-next: create the security@aiqso.io mailbox referenced by SECURITY.md; confirm org description matches the profile positioning
+next: optional — create a security@aiqso.io Google Workspace alias and promote it in SECURITY.md (currently routes to info@aiqso.io)
 ---
 
 # aiqso-dotgithub — Runbook

@@ -8,7 +8,7 @@ the products we ship, and the environments we manage for clients.
 Report privately. **Do not** open a public issue, and do not disclose publicly
 before we have responded.
 
-- **Email:** security@aiqso.io
+- **Email:** info@aiqso.io — put `SECURITY` in the subject line
 
 Please include:
 
