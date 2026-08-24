@@ -71,4 +71,3 @@ Active. Content commits are from 2026-07-12 (later commits are runbook maintenan
 - Email: info@aiqso.io
 - zeek-ai-detection: https://github.com/AIQSO/zeek-ai-detection
 - pihole-dns-forwarder: https://github.com/AIQSO/pihole-dns-forwarder
-- qr-builder: https://github.com/AIQSO/qr-builder

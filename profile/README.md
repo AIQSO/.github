@@ -16,7 +16,6 @@ Tools and configurations from our production work:
 |---|---|
 | [zeek-ai-detection](https://github.com/AIQSO/zeek-ai-detection) | Passive AI-service detection with Zeek — which devices talk to which AI services, from mirrored traffic alone |
 | [pihole-dns-forwarder](https://github.com/AIQSO/pihole-dns-forwarder) | Turn Pi-hole into a network DNS sensor — reliable query-log shipping to any bulk ingest (watermark resume, backpressure, systemd watchdog) |
-| [qr-builder](https://github.com/AIQSO/qr-builder) | Generate and embed QR codes into images via Python, CLI, and FastAPI |
 
 ## Get in Touch
 
