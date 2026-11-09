@@ -2,7 +2,7 @@
 
 **AI Systems Integrator for regulated and security-conscious businesses**
 
-We design, build, and run secure automation — infrastructure, integration, and AI workflows — with compliance built in, not bolted on. Founded by an enterprise security engineer with 20+ years at IBM, Citigroup, Check Point, Fortinet, Skybox Security, and Armis.
+We design, build, and run secure automation — infrastructure, integration, and AI workflows — with compliance built in, not bolted on. Founded by an enterprise security engineer with 20+ years at IBM, Citigroup, Check Point, Skybox Security, and Armis.
 
 - **Consult** — architecture, AI-readiness, and CMMC/NIST 800-171 readiness assessments
 - **Build** — secure automation, systems integration, and custom AI workflows
